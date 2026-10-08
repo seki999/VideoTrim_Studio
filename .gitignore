@@ -1,0 +1,10 @@
+.venv/
+.venv311/
+.validation/
+__pycache__/
+.pytest_cache/
+build/
+dist/
+*.spec
+VideoTrimStudio-source.zip
+assets/ffmpeg/*.exe
